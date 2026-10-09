@@ -4,6 +4,20 @@ Changelog
 Release X.Y.0 carries report edition vX.Y. Newest first.
 
 
+1.7.0 - 2026-10-08
+------------------
+
+  report: ASUS RT-BE90U, ZenWiFi BQ16 Pro, ZenWiFi BE5000 Pro, RT-BE82U
+    and RT-BE58 Go assessed as AiMesh nodes in sections 1, 4, 6.2, 7 and 12
+  report: decision matrix and figure 6 extended to twenty options;
+    figures 5, 7 and 8 add the new radios and prices
+  report: RT-BE90U named the 2.5G alternate and the cheaper equal where
+    backhaul is 2.5G either way; risks U15 and U16 added, U12 updated
+  report: figure 5 scope, figure 6 hatching rule and the LOW cost token
+    worded to match what they show
+  docs: README counts, page count, price dates and checksum
+
+
 1.6.0 - 2026-10-03
 ------------------
 
